@@ -1,0 +1,7 @@
+2021, Kim
+
+
+1. Checking dependency of tensor library to gsl-modules and comparing with official vector and matrix modules.
+2. Seperate tensor module and routines that using tensor module. 
+    Maybe, they can be adopted to vector and matrix moduels.
+3. Generate sphinx docs
